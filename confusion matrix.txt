@@ -1,0 +1,8 @@
+MobileNet,resnet50----accuracy 98-99% for all ratios of training and testing datasets
+
+0.99  0.01
+0.01   0.99
+
+epochs=10
+batch size=32
+training_hours= >1 hr
