@@ -82,7 +82,7 @@ Contributions are welcome! If you have suggestions or improvements, please fork 
 ## Contact
 
 - **Authors**: Saumya Gupta, N. Anusha, Y. Nikitha Naidu, M. Ruchitha & Richal Pandey 
-- **LinkedIn**: [saumya-gupta346]((https://www.linkedin.com/in/saumya-gupta346/))
+- **LinkedIn**: [Saumya Gupta](https://www.linkedin.com/in/saumya-gupta346/)
 
 
 
